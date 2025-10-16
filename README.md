@@ -7,16 +7,21 @@ sales trends, and factors influencing revenue. The goal is to analyze and visual
 Objectives
 
 -> Analyze customer demographics such as age, gender, and state.
+
 -> Identify top-performing product categories and sub-categories.
+
 -> Understand spending patterns across different segments.
+
 -> Generate insights to help improve sales and targeting strategies for future Diwali campaigns.
 
-Tools & Technologies
+Tools & Technologies: 
 
 Python:
 
 -> Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 -> Jupyter Notebook for analysis and visualization
+
 -> Dataset: Diwali Sales Dataset (publicly available or provided dataset)
 
 Key Steps: 
@@ -36,9 +41,13 @@ Key Steps:
 Insights: 
 
 -> Female customers contributed more to overall sales compared to males.
+
 -> The 26–35 age group was the most active in purchasing.
+
 -> Top states contributing to sales included Uttar Pradesh, Maharashtra, and Karnataka.
+
 -> IT and Healthcare professionals were among the highest spenders.
+
 -> Clothing and Electronics were top-selling categories during Diwali.
 
 Conclusion: 
