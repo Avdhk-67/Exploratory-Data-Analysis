@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project focuses on performing Exploratory Data Analysis (EDA) on a Diwali sales dataset to uncover key insights about customer purchasing behavior,
 sales trends, and factors influencing revenue. The goal is to analyze and visualize data to support better business decisions an marketing stategies. 
 
